@@ -1,5 +1,5 @@
 # classification-using-ecg
- Classification of cardiac arrhythmia using ECG data
+ Classification of cardiac arrhythmia using ECG data from https://archive.ics.uci.edu/ml/datasets/Arrhythmia 
 This work is divided in three phases: 
 
          1) Data Analysis 
