@@ -18,6 +18,7 @@ This work is divided in three phases:
                         2) (In case of a sick patient) Multiple classification to predict the type of arrhythmia.
 
 List of Learning Algorithms:
+
         1) Support Vector Machine
         2) Random Forest
         3) ADA Boost
