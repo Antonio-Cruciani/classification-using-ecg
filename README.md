@@ -17,6 +17,8 @@ This work is divided in three phases:
             3.1) In this section we splitted the multiple classification task in two phases: 
                         1) Binary Classification to predict if a patient is sick or not.
                         2) (In case of a sick patient) Multiple classification to predict the type of arrhythmia.
+                        <img src="https://github.com/Antonio-Cruciani/classification-using-ecg/blob/master/TwoClassArch.png" title="Architecture" alt="Architecture" height=350 width=631>
+
 
 List of Learning Algorithms:
 
